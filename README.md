@@ -19,6 +19,10 @@ On linux-based systems:
 ```bash
 source venv/bin/activate
 ```
+Install the requirements:
+```bash
+python -m pip install -r requirements.txt
+```
 Install for development:
 ```bash
 python -m pip install -e .
